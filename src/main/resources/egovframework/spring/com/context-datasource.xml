@@ -53,7 +53,8 @@
 		<property name="driverClassName" value="${Globals.postgres.DriverClassName}"/>
 		<property name="url" value="${Globals.postgres.Url}" />
 		<property name="username" value="${Globals.postgres.UserName}"/>
-		<property name="password" value="rda2023!"/>
+		<property name="password" value="*******"/>
+		<!-- 비밀번호 숨김 -->
 	</bean>
 	</beans>
 
